@@ -21,22 +21,22 @@ This is a simple Python dictionary app that lets you look up the meaning of word
 ## 📄 Requirements
 Python 3.x
 
-No external libraries needed except the standard library modules:
+- No external libraries needed except the standard library modules:
 
-json
+- json
 
-difflib
+- difflib
 
 ## 🛠 Setup & Run
- Clone the repository or download the code files.
- Make sure your data.json file is in the correct path.
+- Clone the repository or download the code files.
+- Make sure your data.json file is in the correct path.
 
 Run the script:
- Py_dictionary.py
+- Py_dictionary.py
 
 
  # 💡 Notes
-Ensure the data.json path is correctly set in the code:
+ - Ensure the (`data.json`) is correctly set in the code:
 
-You may want to change it to a relative path for portability:
-data = json.load(open("data.json"))
+- You may want to change it to a relative path for portability:
+  data = json.load(open("data.json"))
