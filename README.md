@@ -19,20 +19,20 @@ This is a simple Python dictionary app that lets you look up the meaning of word
 - If confirmed, the meaning of the closest match is returned.
 
 ## 📄 Requirements
-(`Python 3.x`)
+- Python 3.x
 
-- No external libraries needed except the standard library modules:
+No external libraries needed except the standard library modules:
 
 - json
 
 - difflib
 ## 📂 File Structure
 
-dictionary_project/
-│
-├── dictionary.py       # Main script file
-├── data.json           # Dictionary database in JSON format
-└── README.md           # This file
+ dictionary_project/
+ │
+ ├── dictionary.py       # Main script file
+ ├── data.json           # Dictionary database in JSON format
+ └── README.md           # This file
 
 
 ## 🛠 Setup & Run
