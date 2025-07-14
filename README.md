@@ -28,11 +28,11 @@ No external libraries needed except the standard library modules:
 - difflib
 ## 📂 File Structure
 
- dictionary_project/
- │
- ├── dictionary.py       # Main script file
- ├── data.json           # Dictionary database in JSON format
- └── README.md           # This file
+  dictionary_project/
+  │
+  ├── dictionary.py       # Main script file
+  ├── data.json           # Dictionary database in JSON format
+  └── README.md           # This file
 
 
 ## 🛠 Setup & Run
