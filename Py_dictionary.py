@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 
-data=json.load(open("D:\CODES IN VS CODE\TIME PASS\DICTIONARY\data.json"))
+data=json.load(open("data.json"))
 
 def convert(w):
     if w in data:
